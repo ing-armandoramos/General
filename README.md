@@ -18,7 +18,7 @@ Junior Web Developer & Designer with a strong passion for creating intuitive, ae
 - **Other**: Responsive Design, SEO
 
 <!-- Highlighted projects to showcase work -->
-## Look at my repositories, youmight find something interesting!
+## Look at my repositories, you might find something interesting!
 
 
 <!-- GitHub stats for visual flair (using GitHub Readme Stats) -->
