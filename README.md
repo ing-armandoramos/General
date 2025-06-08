@@ -4,7 +4,7 @@
 <!-- Introduction: Who you are, what you do, and what you're learning -->
 Junior Web Developer & Designer with a strong passion for creating intuitive, aesthetically compelling digital experiences. Currently advancing my expertise in modern web technologies, I love to transform concepts into functional, high-quality and seamless user experiences. I am a mexican living in Mexico, I am committed to continuous learning and innovation in the ever-evolving landscape of web development.
 
-bold
+**bold**
 
 <!-- Fun facts to add personality -->
 ## 🌟 A Bit About Me
